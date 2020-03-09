@@ -1,0 +1,12 @@
+{
+  "name": "web-bundler-comparison",
+  "version": "1.0.0",
+  "private": true,
+  "description": "comparing different js bundlers",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "showdown": "^1.9.1"
+  }
+}
